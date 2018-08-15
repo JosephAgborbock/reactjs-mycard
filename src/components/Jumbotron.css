@@ -1,0 +1,21 @@
+.jumbotron {
+    background-image: url(../images/city-streets.jpg);    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    color: #fff;
+    height: 50vh;
+    padding-left: 5px;
+    font-weight: 100
+}
+
+.display-3 {
+    text-align: left;
+   
+}
+
+.lead {
+    text-align: left;
+}
+
+
